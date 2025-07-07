@@ -46,6 +46,11 @@ Com as variáveis configuradas, execute o seguinte comando no terminal para cria
 node src/utils/run-migrations.js
 ```
 
+Para iniciar o servidor, utilize o comando:
+
+```bash
+npm run dev
+```
 ---
 
 ## Endpoints da API
